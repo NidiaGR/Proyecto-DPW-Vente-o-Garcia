@@ -1,0 +1,60 @@
+body {
+  background: linear-gradient(#0e141e, #292d47) ;
+  color: #6b6fa4;
+}
+
+a:link {
+  color: #8a8bac;
+}
+
+a:visited {
+  color: #898fd7;
+}
+
+a:active {
+  color: #d3d4e5;
+}
+
+.mi-div {
+    background: #292d47;
+    width: 90%;
+    margin: 10px auto;
+    padding: 5px 10px;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+.mi-div {
+    background: #0e141e;
+    width: 90%;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    color: #687a98;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.mi-div {
+    background: #0e141e;
+    width: 90%;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    color: #687a98;
+}
+
+.mi-div-mi {
+  background: #0e141e;
+  width: 90%;
+  margin: 10px auto;
+  padding: 10px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  color: #687a98;
+}

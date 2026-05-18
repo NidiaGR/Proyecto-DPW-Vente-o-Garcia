@@ -1,0 +1,131 @@
+body {
+  background: linear-gradient(#000000,#113642) ;
+  color: #b6d8db;
+
+}
+
+
+a:link {
+  color: #e8dedc;
+}
+
+a:visited {
+  color: #4be4fb;
+}
+
+a:active {
+  color: #7db4c3;
+}
+
+
+header{
+  height: 400px;
+  background-image: url("imagenes/knight.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+main{
+  padding: 20px 30px;
+}
+
+main .foto{
+  width: 150px;
+  height: 150px;
+  background-color: teal;
+  border-radius: 50%;
+  margin: -90px 0 20px 0;
+  border: 6px solid #ffffff;
+
+}
+
+/****Boton*****/
+
+
+.boton a{
+  background: #5F6F99;
+  text-decoration: none; /*quita subrayado*/
+  color:white;
+  font-size: 18px;
+  display: block;
+  padding: 15px 10px;
+  border-radius: 5px;
+  width:100px;
+  margin:15px auto;
+  text-align:center;
+}
+
+.boton a:hover{
+  background: #005252;
+}
+
+/******FOOTER******/
+footer{
+  background: #020202;
+  padding: 30px;
+
+}
+
+footer p{
+  color:white;
+  text-align: center;
+}
+
+main .foto img{
+  width:100%;
+  border-radius:50%;
+
+}
+
+footer{
+  background: #5F6F99;
+  text-align: center;
+  padding: 25px;
+  color: #ffffff
+}
+
+.mi-div {
+    background: #071b22;
+    width: 90%;
+    margin: 10px auto;
+    padding: 5px 10px;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+.mi-div {
+    background: #071b22;
+    width: 90%;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    color: #1b4d5e;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.mi-div {
+    background: #071b22;
+    width: 90%;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    color: #347e97;
+}
+
+.mi-div-mi {
+  background: #0e141e;
+  width: 90%;
+  margin: 10px auto;
+  padding: 10px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  color: #687a98;
+  text-align: center;
+
+}

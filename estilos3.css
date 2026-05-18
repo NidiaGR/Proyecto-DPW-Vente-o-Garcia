@@ -1,0 +1,26 @@
+body {
+  background: linear-gradient(#000000,#161925) ;
+  color: #7a86a8;
+}
+
+a:link {
+  color: #7e808e;
+}
+
+a:visited {
+  color: #7981ba;
+}
+
+a:active {
+  color: #e1e2ea;
+}
+
+.mi-div-mi {
+  background: #11131c;
+  width: 90%;
+  margin: 10px auto;
+  padding: 10px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  color: #687a98;
+}
